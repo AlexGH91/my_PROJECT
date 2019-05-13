@@ -2,5 +2,39 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.20",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UINavigation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4601ff4d12fc4ed1a7418e1585374a48"
+		},
+		{
+			"Name": "SaveExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91084f43b68047ac8da6fc88a7467936"
+		},
+		{
+			"Name": "BacktraceIntegration",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/66f20b48cf6741e3a47a1fad7d118651",
+			"Token": "your crash submission token",
+			"SymbolsToken": "your symbols token",
+			"Realm": "yourname",
+			"ProjectName": "",
+			"SendReleasePdb": false,
+			"SendDebugPdb": false,
+			"OverrideGlobalReporter": false
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		},
+		{
+			"Name": "RichTextBlockInlineDecorator",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/OfferIDGoesHere"
+		}
+	]
 }
