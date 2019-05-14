@@ -328,73 +328,100 @@
 "../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Character/Knight/Knight_MAT.uasset" 327
 "../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Character/Knight/knight_d_pelegrini_PhysicsAsset.uasset" 328
 "../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Character/Knight/knight_d_pelegrini.uasset" 329
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/indietro.uasset" 330
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/indietro_hov.uasset" 331
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu.uasset" 332
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/New_Menu_Settings.uasset" 333
-"../../../Engine/Content/EditorMaterials/GreyCheck.uasset" 334
-"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 335
-"../../../Engine/Content/EngineResources/Bad.uasset" 336
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/HUDAssets/mountain-natural-image-hd.uasset" 337
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/VideoSettings2.uasset" 338
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Character/CH_Hero.uasset" 339
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/SaveSettings.uasset" 340
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/VideoSettings.uasset" 341
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 342
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 343
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 344
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 345
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 346
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 347
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 348
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 349
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 350
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 351
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 352
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 353
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 354
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 355
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 356
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 357
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 358
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 359
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 360
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 361
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 362
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 363
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 364
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 365
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 366
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 367
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 368
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 369
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 370
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 371
-"../../../Engine/Content/Maps/Entry.umap" 372
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 373
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 374
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 375
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 376
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 377
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 378
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 379
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 380
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 381
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 382
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/NewFoliageType_InstancedStaticMesh.uasset" 383
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/TestMap_BuiltData.uasset" 384
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 385
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 386
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_MacroVariation.uasset" 387
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 388
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Materials/M_Ground_Grass.uasset" 389
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 390
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/tex_placeholder_diff.uasset" 391
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/M_grass.uasset" 392
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/tex_grass_diff.uasset" 393
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/M_grass_Inst.uasset" 394
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/SM_grass002.uasset" 395
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/SM_grass003.uasset" 396
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Audio/background/Gothic_3_exploring.uasset" 397
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Audio/background/Gothic_3_exploring_Cue.uasset" 398
-"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/TestMap.umap" 399
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/indietro.uasset" 330
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/indietro_hov.uasset" 331
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/audio.uasset" 332
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/audio_hov.uasset" 333
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/controlli.uasset" 334
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/controlli_hov.uasset" 335
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/dettaglio.uasset" 336
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/dettaglio_hov.uasset" 337
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/difficolta.uasset" 338
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/difficolta_hov.uasset" 339
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/main_menu_opzioni.uasset" 340
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/video.uasset" 341
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/menu_opzioni/video_hov.uasset" 342
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/Menu_opzioni.uasset" 343
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/carica_partita.uasset" 344
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/carica_partita_hov.uasset" 345
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/esci.uasset" 346
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/esci_hov.uasset" 347
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/main_menu.uasset" 348
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/new_paritta.uasset" 349
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/new_partita_hov.uasset" 350
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/opzioni.uasset" 351
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/opzioni_hov.uasset" 352
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/ringraziamenti.uasset" 353
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/ringraziamenti_hov.uasset" 354
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/salva_partita.uasset" 355
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/main_menu/salva_partita_hov.uasset" 356
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/New_Menu_Settings.uasset" 357
+"../../../Engine/Content/EditorMaterials/GreyCheck.uasset" 358
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 359
+"../../../Engine/Content/EngineResources/Bad.uasset" 360
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/HUDAssets/mountain-natural-image-hd.uasset" 361
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/VideoSettings2.uasset" 362
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Character/CH_Hero.uasset" 363
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/SaveSettings.uasset" 364
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/VideoSettings.uasset" 365
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 366
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 367
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 368
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 369
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 370
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 371
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 372
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 373
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 374
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 375
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 376
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 377
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 378
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 379
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 380
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 381
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 382
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 383
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 384
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 385
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 386
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 387
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 388
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 390
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 391
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 392
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 393
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 394
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/new_menu/mouse/mouse.uasset" 395
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/mouse.uasset" 396
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Settings/dettaglio.uasset" 397
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 398
+"../../../Engine/Content/Maps/Entry.umap" 399
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 400
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 401
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 402
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 403
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 404
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 405
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 406
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 407
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 408
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 409
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/NewFoliageType_InstancedStaticMesh.uasset" 410
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/TestMap_BuiltData.uasset" 411
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 412
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 413
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_MacroVariation.uasset" 414
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 415
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Materials/M_Ground_Grass.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 417
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/tex_placeholder_diff.uasset" 418
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/M_grass.uasset" 419
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/tex_grass_diff.uasset" 420
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/M_grass_Inst.uasset" 421
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/SM_grass002.uasset" 422
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/Foliage/Grass/SM_grass003.uasset" 423
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Audio/background/Gothic_3_exploring.uasset" 424
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/StarterContent/Audio/background/Gothic_3_exploring_Cue.uasset" 425
+"../../../../../../Users/NHS/Documents/Unreal Projects/my_PROJECT/Content/TestMap.umap" 426
